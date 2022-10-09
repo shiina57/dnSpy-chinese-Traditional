@@ -6,6 +6,8 @@
 
 dnSpy是一個偵錯程式和.NET程式集編輯器，你可以用它來編輯和除錯程式集，即使你沒有任何的原始碼
 
+dnSpy is a debugger and .NET assembly editor. You can use it to edit and debug assemblies even if you don't have any source code available.
+
 
 ## Download link(繁體中文版載點):
   
