@@ -2,6 +2,6 @@
 繁體中文化的 dnSpy
  
 ![](./2452.jpg)
-download link: [here,在這裡](https://1drv.ms/u/s!AuCeI3Rb0vNfaRtAtal7EbWaVjk?e=XVbvXR)
+Download link: [here,在這裡](https://1drv.ms/u/s!AuCeI3Rb0vNfaRtAtal7EbWaVjk?e=XVbvXR)
 
-Original website:[here](https://github.com/dnSpy/dnSpy)
+Original website: [here](https://github.com/dnSpy/dnSpy)
